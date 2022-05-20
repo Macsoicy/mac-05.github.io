@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+
+body{
+  background-color: #CAE2BC;
+  font-family: 'Odibee Sans', cursive;
+  font-size: 30px;
+  justify-content: center;
+  text-align: center;
+ 
+}
+
+.checked {
+  color: orange;
+}
+
+list{
+position: sticky;
+}
